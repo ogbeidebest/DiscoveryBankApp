@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBank.Form1.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.Form2.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.Formatic.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.Former.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.InitialDeposit.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.LogInBtn.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.RegisterAsAUser.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.RegistrationPage.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.Transactions.resources
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBank\obj\Debug\netcoreapp3.1\DiscoveryBankUi.csproj.CoreCompileInputs.cache

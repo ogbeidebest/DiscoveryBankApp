@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\bin\Debug\netcoreapp3.1\DataStore.deps.json
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\bin\Debug\netcoreapp3.1\DataStore.dll
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\bin\Debug\netcoreapp3.1\DataStore.pdb
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.dll
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DataStore\obj\Debug\netcoreapp3.1\DataStore.pdb

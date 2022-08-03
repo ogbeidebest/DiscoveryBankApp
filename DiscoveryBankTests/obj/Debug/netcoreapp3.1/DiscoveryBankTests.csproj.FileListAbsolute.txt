@@ -1,0 +1,6 @@
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\obj\Debug\netcoreapp3.1\DiscoveryBankTests.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\obj\Debug\netcoreapp3.1\DiscoveryBankTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\obj\Debug\netcoreapp3.1\DiscoveryBankTests.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\obj\Debug\netcoreapp3.1\DiscoveryBankTests.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\DiscoveryBankTests\obj\Debug\netcoreapp3.1\DiscoveryBankTests.csproj.CoreCompileInputs.cache

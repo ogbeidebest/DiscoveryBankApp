@@ -1,0 +1,5 @@
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\week-4-task-ogbeidebest\DiscoveryBank\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
